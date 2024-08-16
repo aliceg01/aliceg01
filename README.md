@@ -7,7 +7,7 @@ Hi! I'm Alice, a student in Montreal Canada 🇨🇦
   * Digital and Technology Consulting as a Software Developer;
   * Business Intelligence as a BI Lead and
   * Venture Capital as an Associate
-* ⚙️ Proficient in Python, Java, C, SQL.
+* ⚙️ Proficient in Python, Java, C, SQL
 * 🙋‍♀️ Loves to learn new things!
 
      
