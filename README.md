@@ -5,7 +5,8 @@ Hi! I'm Alice, a student in Montreal Canada 🇨🇦
 * 📚 Studying Software Engineering (B. Eng.) @ McGill University
 * 👩‍💻 Internship experience in
   * Digital and Technology Consulting as a Software Developer
-  * Business Intelligence as a BI Lead 
+  * Business Intelligence as a BI Lead
+  * Research at McGill University 
   * Venture Capital as a VC Analyst
 * ⚙️ Proficient in Python, Java, C, SQL and more
 * 🙋‍♀️ Loves to learn new things!
