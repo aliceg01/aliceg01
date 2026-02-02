@@ -19,7 +19,7 @@ I’m especially interested in environments like startups and consulting where y
 - **Ataxx AI Agent (COMP 424 – Intro to AI)**  
   Implemented competitive game-playing agents using adversarial search techniques (MCTS, Alpha-Beta pruning)
   and evaluated performance trade-offs.  
-  - https://github.com/aliceg01/COMP424-AtaxxGame
+  - https://github.com/aliceg01/AtaxxGame
 
 ### Tech I Work With
 Python, SQL, pandas, scikit-learn, PyTorch (coursework), data pipelines, REST APIs, Git, Azure, Power BI
