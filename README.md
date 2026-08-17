@@ -24,5 +24,12 @@ I’m especially interested in environments like startups and consulting where y
 ### Tech I Work With
 Python, SQL, pandas, scikit-learn, PyTorch (coursework), data pipelines, REST APIs, Git, Azure, Power BI
 
+### Experience
+- **RCGT - Digital & Technology Consulting - Software Developer Intern**
+- **Alstom - Business Intelligence Methods & Tools Lead Intern**
+- **EcoFlux Lab - Undergraduate Student Researcher**
+- **RBC - RBCx - AVP Banking Intern - Tech Banking tools**
+
+
 **Contact:**  
 [LinkedIn](https://www.linkedin.com/in/alice-godbout/) • alice.godbout@mail.mcgill.ca
